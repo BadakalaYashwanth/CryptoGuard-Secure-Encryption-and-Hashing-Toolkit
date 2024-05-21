@@ -1,0 +1,5 @@
+project_directory/
+│
+├── main.py
+├── aes_encryption.py
+└── rsa_encryption.py
