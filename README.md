@@ -1,0 +1,2 @@
+# CryptoGuard-Secure-Encryption-and-Hashing-Toolkit
+Modules/Libraries: cryptography, tkinter. Algorithms: AES(symmetric encryption), RSA (asymmetric encryption), SHA-256 (hashing).This project implements secure file encryption and decryption using AES and RSA algorithms. The user interacts with a tkinter GUI to input messages and keys. The program also includes SHA-256 hashing for data integrity1234
